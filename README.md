@@ -1,8 +1,7 @@
 - 👋 Hey, I’m Haya Masoud
-- A Practical Software engineering graduate.
-- A Computer Science Student At the Open University. 
+- A Practical Software engineer. 
 - QA tester.
-- High School AI Mentor.
+- Python Tutor
 - linkedin.com/in/haya-masoud
 - 📫 hayamasoud099@gmail.com 
 
