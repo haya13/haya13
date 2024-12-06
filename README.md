@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Haya Masoud
 - A Practical Software engineer. 
-- QA tester.
+- Backend Developer.
 - Python Tutor
 - linkedin.com/in/haya-masoud
 - 📫 hayamasoud099@gmail.com 
